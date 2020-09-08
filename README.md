@@ -1,4 +1,9 @@
-### Hi there 👋
+### 黄泽宏 ｜  -> hongframe
+
+- 专注于基础架构 & 中间件
+- 热衷于阅读优秀框架源码
+- 有两个半成品开源项目 -> (Dubbo-raft & Sekiro) 都是练手用的
+
 
 <!--
 **zehonghuang/zehonghuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
