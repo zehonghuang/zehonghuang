@@ -2,7 +2,10 @@
 
 - 专注于基础架构 & 中间件
 - 热衷于阅读优秀框架源码
-- 有两个半成品开源项目 -> (Dubbo-raft & Sekiro) 都是练手用的
+- 有两个半成品开源项目 -> 
+  - 基于Dubbo的Raft算法库 (Dubbo-raft)[https://github.com/zehonghuang/dubbo-raft] 
+  - RPC (Sekiro)[https://github.com/zehonghuang/sekiro] 
+  - 都是练手用的
 
 
 <!--
