@@ -1,6 +1,6 @@
 ### 黄泽宏 ｜  -> hongframe
 
-- 专注于基础架构 & 中间件
+- 专注于Kubernetes & 运维开发相关
 - 热衷于阅读优秀框架源码
 - 有两个半成品开源项目 -> 
   - 基于Dubbo的Raft算法库 [Dubbo-raft](https://github.com/zehonghuang/dubbo-raft)
