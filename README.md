@@ -1,29 +1,25 @@
-### 黄泽宏 ｜  -> hongframe
+### 👨‍💻 黄泽宏（hongframe）
 
-- 专注于Kubernetes & 运维开发相关
-- 热衷于阅读优秀框架源码
-- 有两个半成品开源项目 -> 
-  - 基于Dubbo的Raft算法库 [Dubbo-raft](https://github.com/zehonghuang/dubbo-raft)
-  - RPC [Sekiro](https://github.com/zehonghuang/sekiro) 
-  - 都是练手用的
+后端开发工程师，关注 **Kubernetes 运维体系** 与 **自动化工具链建设**。  
+喜欢阅读优秀框架源码，也热衷于从零构建简单实用的基础设施。
 
-<!--
-涉及的技术栈，包括但不限于
+---
 
-![](https://raw.githubusercontent.com/zehonghuang/github_blog_bak/master/source/image/%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1.png)
--->
+### 🔧 个人项目
 
-<!--
-**zehonghuang/zehonghuang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **[OpenResty Operator](https://github.com/zehonghuang/openresty-operator)**  
+  轻量级 Kubernetes Operator，面向内网 API 网关场景，支持模块化管理 Location、Server、Upstream 配置。
 
-Here are some ideas to get you started:
+- **[Dubbo-Raft](https://github.com/zehonghuang/dubbo-raft)** （实验项目）  
+  基于 Dubbo 的 Raft 实现，探索 RPC 场景下的一致性协议行为。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Sekiro](https://github.com/zehonghuang/sekiro)** （练手项目）  
+  自研 RPC 协议，关注性能与序列化机制的可控性和实验性。
+
+---
+
+### 📚 兴趣领域
+
+- 框架源码阅读（Dubbo / APISIX / controller-runtime 等）
+- Operator 设计模式与声明式架构落地
+- 写稳定的代码、做可控的系统
