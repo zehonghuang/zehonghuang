@@ -1,7 +1,5 @@
 ### 👨‍💻 黄泽宏（hongframe）
 
-![](https://komarev.com/ghpvc/?username=zehonghuang)
-
 云原生平台工程师，关注 **Kubernetes 运维体系** 与 **自动化工具链建设**。  
 喜欢阅读优秀框架源码，也热衷于从零构建简单实用的基础设施。
 
